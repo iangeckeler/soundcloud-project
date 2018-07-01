@@ -1,0 +1,23 @@
+{
+  "name": "soundcloud-project",
+  "version": "1.0.0",
+  "description": "our sick project bruh",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iangeckeler/soundcloud-project.git"
+  },
+  "author": "ian and austin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iangeckeler/soundcloud-project/issues"
+  },
+  "homepage": "https://github.com/iangeckeler/soundcloud-project#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
+  }
+}
