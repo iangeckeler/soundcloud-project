@@ -19,6 +19,10 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "nodemon": "^1.17.5"
+    "node-spotify-api": "^1.0.7",
+    "nodemon": "^1.17.5",
+    "sdk": "^0.5.0",
+    "spotify-web-api-js": "^0.24.0",
+    "spotify-web-api-node": "^3.1.1"
   }
 }
